@@ -3,6 +3,8 @@ public class Hello {
         System.out.println("Hello class");
         // more changes
 
+        //someone made changes in here too
+
         // it is awesome!!!
     }
 }
